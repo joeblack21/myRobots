@@ -6,4 +6,4 @@
 *.ear
 *.classpath
 *.project
-*.settings
+*.settings/
